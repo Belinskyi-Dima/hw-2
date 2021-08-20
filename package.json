@@ -1,0 +1,26 @@
+{
+  "name": "hw-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belinskyi-Dima/hw-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belinskyi-Dima/hw-2/issues"
+  },
+  "homepage": "https://github.com/Belinskyi-Dima/hw-2#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "sass": "^1.38.0"
+  }
+}
